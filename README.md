@@ -7,6 +7,10 @@ Collection of resources about code analysis for the preservation of digital art
 - [Revealing hidden processes: instrumentation and reverse engineering in the conservation of software-based art](https://resources.culturalheritage.org/emg-review/volume-5-2017-2018/ensom/), 2017, The Electronic Media Review
 - [Open the museum’s gates to pirates: Hacking for the sake of digital art preservation](https://phaidra.univie.ac.at/detail/o:923621), 2018, iPRES
 - [Retro-Engineering and Alternative Histories: Possible Roads toward Media Archaeological Reconstruction](https://direct.mit.edu/leon/article-pdf/50/2/192/1577986/leon_a_01388.pdf), 2017, Leonardo
+- [Source Code Analysis as Technical Art History](https://www.tandfonline.com/doi/epdf/10.1179/1945233015Y.0000000004?needAccess=true), 2015, Journal of the American Institute for Conservation
+- [Conserving Digital Art](https://link.springer.com/chapter/10.1007/978-3-319-97457-6_11), 2019, Museums and Digital Culture
+- ["Self-Documentation" as a Means of Conservation For Data-Based Installations](https://resources.culturalheritage.org/emg-review/volume-6-2019-2020/mellado-martinez/), 2019, Electronic Media Review
+- [Software- and Data-based art conservation from the artist studio practice: Engineering approaches to documentation as a tool for artwork definition and conservation](https://www.academia.edu/42488179/Software_and_Data_based_art_conservation_from_the_artist_studio_practice_Engineering_approaches_to_documentation_as_a_tool_for_artwork_definition_and_conservation), 2019, MSc thesis
 
 # Art organizations
 The following art organizations have dedicated teams for the conservation of digital art, a.k.a time-based media
