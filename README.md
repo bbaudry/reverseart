@@ -21,3 +21,4 @@ The following art organizations have dedicated teams for the conservation of dig
   - https://github.com/MuseumofModernArt
 - [ZKM](https://zkm.de/en)
   - [Morgane Stricot](https://zkm.de/de/person/morgan-stricot)
+- [rhizome](https://rhizome.org/tags/preservation/)
