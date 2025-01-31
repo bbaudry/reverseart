@@ -11,6 +11,8 @@ Collection of resources about code analysis for the preservation of digital art
 - [Conserving Digital Art](https://link.springer.com/chapter/10.1007/978-3-319-97457-6_11), 2019, Museums and Digital Culture
 - ["Self-Documentation" as a Means of Conservation For Data-Based Installations](https://resources.culturalheritage.org/emg-review/volume-6-2019-2020/mellado-martinez/), 2019, Electronic Media Review
 - [Software- and Data-based art conservation from the artist studio practice: Engineering approaches to documentation as a tool for artwork definition and conservation](https://www.academia.edu/42488179/Software_and_Data_based_art_conservation_from_the_artist_studio_practice_Engineering_approaches_to_documentation_as_a_tool_for_artwork_definition_and_conservation), 2019, MSc thesis
+- [Responding to obsolescence in Flash-based net art: a case study on migrating Sinae Kim's Genesis](https://www.tandfonline.com/doi/pdf/10.1080/19455224.2021.2007412), 2022, Journal of the Institute of Conservation
+- [Decompilation and copyright in ideas - the protection of non-literal elements of computer software and the idea/expression dichotomy](https://scholar.sun.ac.za/server/api/core/bitstreams/a59f53f6-9e93-4490-adf4-47a74e2e425d/content), 2020, PhD thesis
 
 # Art organizations
 The following art organizations have dedicated teams for the conservation of digital art, a.k.a time-based media
